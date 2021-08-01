@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: thistle;
+}
+.nav-font{
+    font-weight: 400;
+}
+.Submit-Option{
+    height: 300px;
+}
+.panda-card{
+border: 0;
+}
+.panda-footer{
+    border: 0;
+    background-color: rgb(223, 28, 28);
+}
+.panda-slide{
+    background-color:#feeae9;
+}
